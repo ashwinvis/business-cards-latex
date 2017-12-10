@@ -1,0 +1,9 @@
+*.log
+*.aux
+*.out
+*.dvi
+*.pdf
+*.synctex.gz
+*.backup
+
+images/qrcode.png
